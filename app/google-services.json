@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228157567483",
+    "project_id": "profirebase-ce678",
+    "storage_bucket": "profirebase-ce678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228157567483:android:adf50cbdf7294129375b5e",
+        "android_client_info": {
+          "package_name": "com.example.projetofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5kvyfucoPT0xHhN5FVdwvBdyi5tEKwwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
